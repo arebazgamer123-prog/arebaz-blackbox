@@ -67,3 +67,82 @@ git clone https://github.com/arebazgamer123/arebaz-blackbox.git
 cd arebaz-blackbox
 chmod +x install.sh
 ./install.sh
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20With-Python-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Powered%20By-Nmap-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+</p>
+
+<h1 align="center">🕶️ AREBAZ BLACKBOX</h1>
+
+<p align="center">
+  <b>Advanced Network Reconnaissance Framework</b><br>
+  <i>Silence. Scan. See everything.</i>
+</p>
+
+---
+
+> **"Not an exploit. Not an attack. A mirror."**  
+> This framework does not break systems —  
+> it reveals what systems expose.
+
+---
+
+## ⚠️ LEGAL & ETHICAL WARNING
+
+🚨 **THIS TOOL IS FOR AUTHORIZED SECURITY TESTING ONLY**
+
+- ❌ No exploitation
+- ❌ No brute force
+- ❌ No unauthorized access
+
+✅ Reconnaissance  
+✅ Exposure analysis  
+✅ Defensive security learning  
+
+**Use only on systems you own or have explicit permission to test.**  
+The author is **not responsible** for misuse.
+
+---
+
+## 🧩 WHAT IS AREBAZ BLACKBOX?
+
+**AREBAZ BLACKBOX** is a professional-grade reconnaissance framework built for:
+
+- Ethical Hackers
+- Bug Bounty Hunters
+- Blue Team Analysts
+- Cybersecurity Learners
+
+It acts as a **lens**, not a weapon —  
+showing how much your infrastructure exposes to the internet.
+
+---
+
+## 🧠 CORE CAPABILITIES
+
+- 🔍 Intelligent Nmap scanning profiles
+- 🎯 Multi-target & fast scan modes
+- 📊 Auto-generated scan reports (TXT / XML)
+- 🧠 AI-style exposure summary (keyword-based)
+- 🧾 Organized report storage
+- ⚡ Termux / Linux / Kali compatible
+- 🕶️ Clean hacker-style CLI interface
+
+---
+
+## ⚙️ REQUIREMENTS
+
+- Python **3.8+**
+- Nmap
+- Git
+- Linux / Kali / Termux
+
+❌ **Python 2 is NOT supported**
+
+---
+
+## ⚠️ IMPORTANT FOR TERMUX USERS
+
+Before installing Python requirements, you **must** install system libraries"
