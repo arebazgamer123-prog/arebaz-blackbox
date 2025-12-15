@@ -17,6 +17,25 @@
 </p>
 "Not an exploit. A mirror."
 ## ⚠️ Warning
+📱 Run Arebaz BlackBox on Termux (Step-by-Step Commands) 
+            ⬇️⬇️⬇️
+pkg update && pkg upgrade-y
+pkg install python git nmap -y
+python --version
+nmap --version
+git clone https://github.com/arebazgamer123-prog/arebaz-blackbox.git
+cd arebaz-blackbox
+pip install -r requirements.txt
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+python main.py 
+
+
+## 🐉 Run on Kali Linux (One-Click)
+
+```bash
+curl -s https://raw.githubusercontent.com/arebazgamer123-prog/arebaz-blackbox/main/install.sh | bash
+python3 main.py
 
 This framework is **not a weapon**.
 
