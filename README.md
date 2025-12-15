@@ -16,6 +16,23 @@
   <img src="https://img.shields.io/badge/License-MIT-green">
 </p>
 "Not an exploit. A mirror."
+> ⚠️ **Important for Termux users**
+>
+> Before installing Python requirements, you **must** install system libraries:
+>
+> ```bash
+> pkg update && pkg upgrade -y
+> pkg install python git nmap clang libjpeg-turbo zlib freetype -y
+> pip install --upgrade pip
+> ```
+>
+> Then install project requirements:
+>
+> ```bash
+> pip install -r requirements.txt
+> ```
+>
+> Otherwise, Pillow may fail to install.
 ## ⚠️ Warning
 ## 📱 Run Arebaz BlackBox on Termux (Step-by-Step)
 
