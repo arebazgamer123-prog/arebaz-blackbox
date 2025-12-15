@@ -60,3 +60,10 @@ It does not attack.
 It reveals exposure — nothing more.
 
 Use **only** on systems you own or have explicit permission to assess.
+## ⚡ One-Click Installation (Recommended)
+
+```bash
+git clone https://github.com/arebazgamer123/arebaz-blackbox.git
+cd arebaz-blackbox
+chmod +x install.sh
+./install.sh
