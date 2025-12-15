@@ -1,1 +1,6 @@
+requests
+colorama
+termcolor
+tqdm
+python-nmap
 pillow
