@@ -146,3 +146,50 @@ showing how much your infrastructure exposes to the internet.
 ## ⚠️ IMPORTANT FOR TERMUX USERS
 
 Before installing Python requirements, you **must** install system libraries"
+## ☠️ CREATOR
+
+**Arebaz Alam**  
+🕶️ Architect of BlackBox  
+⚔️ Cyber Reconnaissance | Systems | Offensive Thinking (Ethical)
+
+> *“I don’t break systems.  
+> I expose what they fail to hide.”*
+
+---
+
+### 🧠 PROFILE
+
+- Thinks like an attacker  
+- Builds like a defender  
+- Observes like a machine  
+
+I don’t run exploits.  
+I don’t chase noise.  
+I analyze **exposure**, **patterns**, and **silence between ports**.
+
+BlackBox is not a tool.  
+It’s a **perspective**.
+
+---
+
+### ⚠️ PHILOSOPHY
+
+- ❌ No blind attacks  
+- ❌ No script-kiddie chaos  
+- ❌ No illegal activity  
+
+✅ Reconnaissance  
+✅ Precision  
+✅ Responsibility  
+
+If a system fears being scanned,  
+it was never secure.
+
+---
+
+### 🩸 SIGNATURE
+
+> *“Amateurs hack systems.  
+> Professionals understand the surface they expose.”*
+
+🕶️ **AREBAZ // BLACKBOX**
