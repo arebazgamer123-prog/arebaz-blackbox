@@ -1,5 +1,5 @@
-# arebaz-blackbox
-💀 Arebaz BlackBox — Advanced network reconnaissance, exposure mapping &amp; threat-level analysis framework (authorized use only)
+# arebaz-blackbox 
+💀 Arebaz blackbox — Advanced network reconnaissance, exposure mapping &amp; threat-level analysis framework (authorized use only)
 <p align="center">
   <h1 align="center">🕶️ AREBAZ BLACKBOX</h1>
   <p align="center">
